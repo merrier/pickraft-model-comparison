@@ -1,6 +1,6 @@
 # 拾作 · 模型对比
 
-[在线查看](https://merrier.github.io/pickraft-model-comparison/)
+[在线查看](https://merrier.wang/pickraft-model-comparison/)
 
 同一参考照片、同一提示词，对比 OpenAI 与腾讯云 Hy-Image 3.5 的三组实际生成结果。
 测试日期：2026-10-11。点击图片可放大查看。
